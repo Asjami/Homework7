@@ -10,8 +10,8 @@ public class BaseTest {
         Browser.setup();
     }
 
-  /*  @AfterClass
+    @AfterClass
     public void tearDownBrowser(){
         Browser.tearDown();
-    }*/
+    }
 }
